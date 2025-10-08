@@ -1,3 +1,5 @@
+# These are library and modules for game with python3.
+
 import curses
 import random
 import time
